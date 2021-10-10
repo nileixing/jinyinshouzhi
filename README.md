@@ -64,6 +64,10 @@ export soy_wx_jysz_User_Agent=""
 
 ## 开始步骤：
 
+小黄鸡安装包天翼云分享
+
+https://cloud.189.cn/t/qiEBNvNJRbYn
+
 首先打开小黄鸟，开启抓包模式
 
 
