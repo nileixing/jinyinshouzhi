@@ -2,6 +2,7 @@
 
 青龙面板跑金银手指脚本教程（一天差不多1.2元）
 
+另外一个加油鸭鸭同样的套路 加油鸭鸭链接 https://github.com/ray154856235/jiayouyaya/blob/main/README.md
 
 ## 前言：解放双手，挣点小毛。
 
