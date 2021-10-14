@@ -22,7 +22,7 @@
 
 **建议首先使用手机流量先刷几遍文章有了金币之后再挂,直接同一个网络多账户容易黑号**
 
-![mmexport1633859223660.png](https://i.loli.net/2021/10/10/Wa2pH7DsCYLy4qf.png)
+![mmexport1634182222767.png](https://i.loli.net/2021/10/14/4mUgtu75XLv1oV8.png)
 
 ## 脚本链接：
 
