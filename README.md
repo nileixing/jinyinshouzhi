@@ -24,7 +24,7 @@
 
 **建议首先使用手机流量先刷几遍文章有了金币之后再挂,直接同一个网络多账户容易黑号**
 
-(http://newmy.woainingmeng.xyz/images/myjy.png)
+![image](https://github.com/nileixing/jinyinshouzhi/blob/main/myjy.png)
 
 ## 脚本链接：
 
